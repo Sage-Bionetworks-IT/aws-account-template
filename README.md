@@ -1,5 +1,5 @@
 # Overview
-A project to install, configure and manage an AWS account.
+A Github template to install, configure and manage an AWS account.
 
 ## Instructions to create or update CF stacks
 

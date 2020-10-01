@@ -122,4 +122,4 @@ lambdas/*.zip
 .DS_Store
 
 # temp files
-/temp/
+temp/
