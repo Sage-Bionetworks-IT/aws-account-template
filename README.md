@@ -1,3 +1,8 @@
+# This repo is archived and no longer supported
+
+Account Creation is now handled by org-formation in https://github.com/Sage-Bionetworks-IT/organizations-infra
+
+
 # Overview
 A Github template to install, configure and manage an AWS account.
 
